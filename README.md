@@ -11,7 +11,7 @@
 ### Статистика:
 
 <a href="https://github.com/romanmusin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobogok&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobogok&theme=github_dark&layout=compact&hide_title=true" />
 </a>
 
 <!--
