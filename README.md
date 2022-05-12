@@ -36,9 +36,7 @@ Redux / MongoDb / Git / REST / Webpack / Figma
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobogok&theme=github_dark&layout=compact&hide_title=true" />
 </a>
 
-<!--
-**Bobogok/bobogok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
